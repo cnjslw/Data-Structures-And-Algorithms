@@ -102,4 +102,4 @@ void HashASL(HashTable H , int m){
     average = average/H.curSize;
     printf("平均查找长度ASL = %.2f" ,average);
     printf("\n");
-}
+} 
