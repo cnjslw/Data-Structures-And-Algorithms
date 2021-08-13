@@ -1,6 +1,5 @@
 /*
  * 程序名：SequeueList.c，此程序演示顺序表的静态实现，数据元素是整数。
- * 
 */
 #include <stdio.h>
 #include <string.h>
