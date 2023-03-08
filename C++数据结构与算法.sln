@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16_高级排序性能测试
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18_线性探测哈希表", "18_线性探测哈希表\18_线性探测哈希表.vcxproj", "{33FD332A-FA19-41AB-97F6-F29D2015F6E1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19_链式哈希表", "19_链式哈希表\19_链式哈希表.vcxproj", "{B8FF9CCA-104C-4519-94D5-85D65253F2A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{33FD332A-FA19-41AB-97F6-F29D2015F6E1}.Release|x64.Build.0 = Release|x64
 		{33FD332A-FA19-41AB-97F6-F29D2015F6E1}.Release|x86.ActiveCfg = Release|Win32
 		{33FD332A-FA19-41AB-97F6-F29D2015F6E1}.Release|x86.Build.0 = Release|Win32
+		{B8FF9CCA-104C-4519-94D5-85D65253F2A8}.Debug|x64.ActiveCfg = Debug|x64
+		{B8FF9CCA-104C-4519-94D5-85D65253F2A8}.Debug|x64.Build.0 = Debug|x64
+		{B8FF9CCA-104C-4519-94D5-85D65253F2A8}.Debug|x86.ActiveCfg = Debug|Win32
+		{B8FF9CCA-104C-4519-94D5-85D65253F2A8}.Debug|x86.Build.0 = Debug|Win32
+		{B8FF9CCA-104C-4519-94D5-85D65253F2A8}.Release|x64.ActiveCfg = Release|x64
+		{B8FF9CCA-104C-4519-94D5-85D65253F2A8}.Release|x64.Build.0 = Release|x64
+		{B8FF9CCA-104C-4519-94D5-85D65253F2A8}.Release|x86.ActiveCfg = Release|Win32
+		{B8FF9CCA-104C-4519-94D5-85D65253F2A8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
