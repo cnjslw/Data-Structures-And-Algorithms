@@ -1,0 +1,4 @@
+#ifndef __BINNODE_IMPLEMENTATION__
+#define __BINNODE_IMPLEMENTATION__
+
+#endif
