@@ -1,6 +1,15 @@
 #ifndef __BinNode__
 #define __BinNode__
 
+#if defined(DSA_REDBLACK)
+#define stature(p) ((p) ? (p)->height : 0)
+#else
+#define stature(p) ((p) ? (p)->height : -1)
+#endif
+
+typedef enum { RB_RED,
+    RB_BLACK } RBColor;
+
 template <typename T>
 struct BinNode;
 template <typename T>
